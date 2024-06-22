@@ -1,3 +1,9 @@
+## 0.4.0 (2024-06-22)
+
+### Feat
+
+- **app.crud**: added opration User
+
 ## 0.3.0 (2024-06-22)
 
 ### Feat
