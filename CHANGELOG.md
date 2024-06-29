@@ -1,3 +1,9 @@
+## 0.5.0 (2024-06-29)
+
+### Feat
+
+- **services**: added class AuthSevice, JWTService
+
 ## 0.4.0 (2024-06-22)
 
 ### Feat
